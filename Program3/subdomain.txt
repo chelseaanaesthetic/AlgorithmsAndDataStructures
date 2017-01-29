@@ -1,0 +1,16 @@
+nM bM
+nM bN
+nM bS
+nM bW
+nT bM
+nT bN
+nT bS
+nT bW
+nW bM
+nW bN
+nW bS
+nW bW
+nH bM
+nH bN
+nH bS
+nH bW

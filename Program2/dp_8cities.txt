@@ -1,0 +1,829 @@
+s = 2
+
+S = {M,A}
+C({M,A},A) = 1129
+
+S = {M,B}
+C({M,B},B) = 1417
+
+S = {M,D}
+C({M,D},D) = 924
+
+S = {M,E}
+C({M,E},E) = 1530
+
+S = {M,H}
+C({M,H},H) = 1240
+
+S = {M,L}
+C({M,L},L) = 1951
+
+S = {M,S}
+C({M,S},S) = 2055
+
+s = 3
+
+S = {M,A,B}
+C({M,A,B},null
+C({M,A,B},null
+C({M,A,B},null
+
+S = {M,A,D}
+C({M,A,D},null
+C({M,A,D},null
+C({M,A,D},null
+
+S = {M,A,E}
+C({M,A,E},null
+C({M,A,E},null
+C({M,A,E},null
+
+S = {M,A,H}
+C({M,A,H},null
+C({M,A,H},null
+C({M,A,H},null
+
+S = {M,A,L}
+C({M,A,L},null
+C({M,A,L},null
+C({M,A,L},null
+
+S = {M,A,S}
+C({M,A,S},null
+C({M,A,S},null
+C({M,A,S},null
+
+S = {M,B,D}
+C({M,B,D},null
+C({M,B,D},null
+C({M,B,D},null
+
+S = {M,B,E}
+C({M,B,E},null
+C({M,B,E},null
+C({M,B,E},null
+
+S = {M,B,H}
+C({M,B,H},null
+C({M,B,H},null
+C({M,B,H},null
+
+S = {M,B,L}
+C({M,B,L},null
+C({M,B,L},null
+C({M,B,L},null
+
+S = {M,B,S}
+C({M,B,S},null
+C({M,B,S},null
+C({M,B,S},null
+
+S = {M,D,E}
+C({M,D,E},null
+C({M,D,E},null
+C({M,D,E},null
+
+S = {M,D,H}
+C({M,D,H},null
+C({M,D,H},null
+C({M,D,H},null
+
+S = {M,D,L}
+C({M,D,L},null
+C({M,D,L},null
+C({M,D,L},null
+
+S = {M,D,S}
+C({M,D,S},null
+C({M,D,S},null
+C({M,D,S},null
+
+S = {M,E,H}
+C({M,E,H},null
+C({M,E,H},null
+C({M,E,H},null
+
+S = {M,E,L}
+C({M,E,L},null
+C({M,E,L},null
+C({M,E,L},null
+
+S = {M,E,S}
+C({M,E,S},null
+C({M,E,S},null
+C({M,E,S},null
+
+S = {M,H,L}
+C({M,H,L},null
+C({M,H,L},null
+C({M,H,L},null
+
+S = {M,H,S}
+C({M,H,S},null
+C({M,H,S},null
+C({M,H,S},null
+
+S = {M,L,S}
+C({M,L,S},null
+C({M,L,S},null
+C({M,L,S},null
+
+s = 4
+
+S = {M,A,B,D}
+C({M,A,B,D},null
+C({M,A,B,D},null
+C({M,A,B,D},null
+C({M,A,B,D},null
+
+S = {M,A,B,E}
+C({M,A,B,E},null
+C({M,A,B,E},null
+C({M,A,B,E},null
+C({M,A,B,E},null
+
+S = {M,A,B,H}
+C({M,A,B,H},null
+C({M,A,B,H},null
+C({M,A,B,H},null
+C({M,A,B,H},null
+
+S = {M,A,B,L}
+C({M,A,B,L},null
+C({M,A,B,L},null
+C({M,A,B,L},null
+C({M,A,B,L},null
+
+S = {M,A,B,S}
+C({M,A,B,S},null
+C({M,A,B,S},null
+C({M,A,B,S},null
+C({M,A,B,S},null
+
+S = {M,A,D,E}
+C({M,A,D,E},null
+C({M,A,D,E},null
+C({M,A,D,E},null
+C({M,A,D,E},null
+
+S = {M,A,D,H}
+C({M,A,D,H},null
+C({M,A,D,H},null
+C({M,A,D,H},null
+C({M,A,D,H},null
+
+S = {M,A,D,L}
+C({M,A,D,L},null
+C({M,A,D,L},null
+C({M,A,D,L},null
+C({M,A,D,L},null
+
+S = {M,A,D,S}
+C({M,A,D,S},null
+C({M,A,D,S},null
+C({M,A,D,S},null
+C({M,A,D,S},null
+
+S = {M,A,E,H}
+C({M,A,E,H},null
+C({M,A,E,H},null
+C({M,A,E,H},null
+C({M,A,E,H},null
+
+S = {M,A,E,L}
+C({M,A,E,L},null
+C({M,A,E,L},null
+C({M,A,E,L},null
+C({M,A,E,L},null
+
+S = {M,A,E,S}
+C({M,A,E,S},null
+C({M,A,E,S},null
+C({M,A,E,S},null
+C({M,A,E,S},null
+
+S = {M,A,H,L}
+C({M,A,H,L},null
+C({M,A,H,L},null
+C({M,A,H,L},null
+C({M,A,H,L},null
+
+S = {M,A,H,S}
+C({M,A,H,S},null
+C({M,A,H,S},null
+C({M,A,H,S},null
+C({M,A,H,S},null
+
+S = {M,A,L,S}
+C({M,A,L,S},null
+C({M,A,L,S},null
+C({M,A,L,S},null
+C({M,A,L,S},null
+
+S = {M,B,D,E}
+C({M,B,D,E},null
+C({M,B,D,E},null
+C({M,B,D,E},null
+C({M,B,D,E},null
+
+S = {M,B,D,H}
+C({M,B,D,H},null
+C({M,B,D,H},null
+C({M,B,D,H},null
+C({M,B,D,H},null
+
+S = {M,B,D,L}
+C({M,B,D,L},null
+C({M,B,D,L},null
+C({M,B,D,L},null
+C({M,B,D,L},null
+
+S = {M,B,D,S}
+C({M,B,D,S},null
+C({M,B,D,S},null
+C({M,B,D,S},null
+C({M,B,D,S},null
+
+S = {M,B,E,H}
+C({M,B,E,H},null
+C({M,B,E,H},null
+C({M,B,E,H},null
+C({M,B,E,H},null
+
+S = {M,B,E,L}
+C({M,B,E,L},null
+C({M,B,E,L},null
+C({M,B,E,L},null
+C({M,B,E,L},null
+
+S = {M,B,E,S}
+C({M,B,E,S},null
+C({M,B,E,S},null
+C({M,B,E,S},null
+C({M,B,E,S},null
+
+S = {M,B,H,L}
+C({M,B,H,L},null
+C({M,B,H,L},null
+C({M,B,H,L},null
+C({M,B,H,L},null
+
+S = {M,B,H,S}
+C({M,B,H,S},null
+C({M,B,H,S},null
+C({M,B,H,S},null
+C({M,B,H,S},null
+
+S = {M,B,L,S}
+C({M,B,L,S},null
+C({M,B,L,S},null
+C({M,B,L,S},null
+C({M,B,L,S},null
+
+S = {M,D,E,H}
+C({M,D,E,H},null
+C({M,D,E,H},null
+C({M,D,E,H},null
+C({M,D,E,H},null
+
+S = {M,D,E,L}
+C({M,D,E,L},null
+C({M,D,E,L},null
+C({M,D,E,L},null
+C({M,D,E,L},null
+
+S = {M,D,E,S}
+C({M,D,E,S},null
+C({M,D,E,S},null
+C({M,D,E,S},null
+C({M,D,E,S},null
+
+S = {M,D,H,L}
+C({M,D,H,L},null
+C({M,D,H,L},null
+C({M,D,H,L},null
+C({M,D,H,L},null
+
+S = {M,D,H,S}
+C({M,D,H,S},null
+C({M,D,H,S},null
+C({M,D,H,S},null
+C({M,D,H,S},null
+
+S = {M,D,L,S}
+C({M,D,L,S},null
+C({M,D,L,S},null
+C({M,D,L,S},null
+C({M,D,L,S},null
+
+S = {M,E,H,L}
+C({M,E,H,L},null
+C({M,E,H,L},null
+C({M,E,H,L},null
+C({M,E,H,L},null
+
+S = {M,E,H,S}
+C({M,E,H,S},null
+C({M,E,H,S},null
+C({M,E,H,S},null
+C({M,E,H,S},null
+
+S = {M,E,L,S}
+C({M,E,L,S},null
+C({M,E,L,S},null
+C({M,E,L,S},null
+C({M,E,L,S},null
+
+S = {M,H,L,S}
+C({M,H,L,S},null
+C({M,H,L,S},null
+C({M,H,L,S},null
+C({M,H,L,S},null
+
+s = 5
+
+S = {M,A,B,D,E}
+C({M,A,B,D,E},null
+C({M,A,B,D,E},null
+C({M,A,B,D,E},null
+C({M,A,B,D,E},null
+C({M,A,B,D,E},null
+
+S = {M,A,B,D,H}
+C({M,A,B,D,H},null
+C({M,A,B,D,H},null
+C({M,A,B,D,H},null
+C({M,A,B,D,H},null
+C({M,A,B,D,H},null
+
+S = {M,A,B,D,L}
+C({M,A,B,D,L},null
+C({M,A,B,D,L},null
+C({M,A,B,D,L},null
+C({M,A,B,D,L},null
+C({M,A,B,D,L},null
+
+S = {M,A,B,D,S}
+C({M,A,B,D,S},null
+C({M,A,B,D,S},null
+C({M,A,B,D,S},null
+C({M,A,B,D,S},null
+C({M,A,B,D,S},null
+
+S = {M,A,B,E,H}
+C({M,A,B,E,H},null
+C({M,A,B,E,H},null
+C({M,A,B,E,H},null
+C({M,A,B,E,H},null
+C({M,A,B,E,H},null
+
+S = {M,A,B,E,L}
+C({M,A,B,E,L},null
+C({M,A,B,E,L},null
+C({M,A,B,E,L},null
+C({M,A,B,E,L},null
+C({M,A,B,E,L},null
+
+S = {M,A,B,E,S}
+C({M,A,B,E,S},null
+C({M,A,B,E,S},null
+C({M,A,B,E,S},null
+C({M,A,B,E,S},null
+C({M,A,B,E,S},null
+
+S = {M,A,B,H,L}
+C({M,A,B,H,L},null
+C({M,A,B,H,L},null
+C({M,A,B,H,L},null
+C({M,A,B,H,L},null
+C({M,A,B,H,L},null
+
+S = {M,A,B,H,S}
+C({M,A,B,H,S},null
+C({M,A,B,H,S},null
+C({M,A,B,H,S},null
+C({M,A,B,H,S},null
+C({M,A,B,H,S},null
+
+S = {M,A,B,L,S}
+C({M,A,B,L,S},null
+C({M,A,B,L,S},null
+C({M,A,B,L,S},null
+C({M,A,B,L,S},null
+C({M,A,B,L,S},null
+
+S = {M,A,D,E,H}
+C({M,A,D,E,H},null
+C({M,A,D,E,H},null
+C({M,A,D,E,H},null
+C({M,A,D,E,H},null
+C({M,A,D,E,H},null
+
+S = {M,A,D,E,L}
+C({M,A,D,E,L},null
+C({M,A,D,E,L},null
+C({M,A,D,E,L},null
+C({M,A,D,E,L},null
+C({M,A,D,E,L},null
+
+S = {M,A,D,E,S}
+C({M,A,D,E,S},null
+C({M,A,D,E,S},null
+C({M,A,D,E,S},null
+C({M,A,D,E,S},null
+C({M,A,D,E,S},null
+
+S = {M,A,D,H,L}
+C({M,A,D,H,L},null
+C({M,A,D,H,L},null
+C({M,A,D,H,L},null
+C({M,A,D,H,L},null
+C({M,A,D,H,L},null
+
+S = {M,A,D,H,S}
+C({M,A,D,H,S},null
+C({M,A,D,H,S},null
+C({M,A,D,H,S},null
+C({M,A,D,H,S},null
+C({M,A,D,H,S},null
+
+S = {M,A,D,L,S}
+C({M,A,D,L,S},null
+C({M,A,D,L,S},null
+C({M,A,D,L,S},null
+C({M,A,D,L,S},null
+C({M,A,D,L,S},null
+
+S = {M,A,E,H,L}
+C({M,A,E,H,L},null
+C({M,A,E,H,L},null
+C({M,A,E,H,L},null
+C({M,A,E,H,L},null
+C({M,A,E,H,L},null
+
+S = {M,A,E,H,S}
+C({M,A,E,H,S},null
+C({M,A,E,H,S},null
+C({M,A,E,H,S},null
+C({M,A,E,H,S},null
+C({M,A,E,H,S},null
+
+S = {M,A,E,L,S}
+C({M,A,E,L,S},null
+C({M,A,E,L,S},null
+C({M,A,E,L,S},null
+C({M,A,E,L,S},null
+C({M,A,E,L,S},null
+
+S = {M,A,H,L,S}
+C({M,A,H,L,S},null
+C({M,A,H,L,S},null
+C({M,A,H,L,S},null
+C({M,A,H,L,S},null
+C({M,A,H,L,S},null
+
+S = {M,B,D,E,H}
+C({M,B,D,E,H},null
+C({M,B,D,E,H},null
+C({M,B,D,E,H},null
+C({M,B,D,E,H},null
+C({M,B,D,E,H},null
+
+S = {M,B,D,E,L}
+C({M,B,D,E,L},null
+C({M,B,D,E,L},null
+C({M,B,D,E,L},null
+C({M,B,D,E,L},null
+C({M,B,D,E,L},null
+
+S = {M,B,D,E,S}
+C({M,B,D,E,S},null
+C({M,B,D,E,S},null
+C({M,B,D,E,S},null
+C({M,B,D,E,S},null
+C({M,B,D,E,S},null
+
+S = {M,B,D,H,L}
+C({M,B,D,H,L},null
+C({M,B,D,H,L},null
+C({M,B,D,H,L},null
+C({M,B,D,H,L},null
+C({M,B,D,H,L},null
+
+S = {M,B,D,H,S}
+C({M,B,D,H,S},null
+C({M,B,D,H,S},null
+C({M,B,D,H,S},null
+C({M,B,D,H,S},null
+C({M,B,D,H,S},null
+
+S = {M,B,D,L,S}
+C({M,B,D,L,S},null
+C({M,B,D,L,S},null
+C({M,B,D,L,S},null
+C({M,B,D,L,S},null
+C({M,B,D,L,S},null
+
+S = {M,B,E,H,L}
+C({M,B,E,H,L},null
+C({M,B,E,H,L},null
+C({M,B,E,H,L},null
+C({M,B,E,H,L},null
+C({M,B,E,H,L},null
+
+S = {M,B,E,H,S}
+C({M,B,E,H,S},null
+C({M,B,E,H,S},null
+C({M,B,E,H,S},null
+C({M,B,E,H,S},null
+C({M,B,E,H,S},null
+
+S = {M,B,E,L,S}
+C({M,B,E,L,S},null
+C({M,B,E,L,S},null
+C({M,B,E,L,S},null
+C({M,B,E,L,S},null
+C({M,B,E,L,S},null
+
+S = {M,B,H,L,S}
+C({M,B,H,L,S},null
+C({M,B,H,L,S},null
+C({M,B,H,L,S},null
+C({M,B,H,L,S},null
+C({M,B,H,L,S},null
+
+S = {M,D,E,H,L}
+C({M,D,E,H,L},null
+C({M,D,E,H,L},null
+C({M,D,E,H,L},null
+C({M,D,E,H,L},null
+C({M,D,E,H,L},null
+
+S = {M,D,E,H,S}
+C({M,D,E,H,S},null
+C({M,D,E,H,S},null
+C({M,D,E,H,S},null
+C({M,D,E,H,S},null
+C({M,D,E,H,S},null
+
+S = {M,D,E,L,S}
+C({M,D,E,L,S},null
+C({M,D,E,L,S},null
+C({M,D,E,L,S},null
+C({M,D,E,L,S},null
+C({M,D,E,L,S},null
+
+S = {M,D,H,L,S}
+C({M,D,H,L,S},null
+C({M,D,H,L,S},null
+C({M,D,H,L,S},null
+C({M,D,H,L,S},null
+C({M,D,H,L,S},null
+
+S = {M,E,H,L,S}
+C({M,E,H,L,S},null
+C({M,E,H,L,S},null
+C({M,E,H,L,S},null
+C({M,E,H,L,S},null
+C({M,E,H,L,S},null
+
+s = 6
+
+S = {M,A,B,D,E,H}
+C({M,A,B,D,E,H},null
+C({M,A,B,D,E,H},null
+C({M,A,B,D,E,H},null
+C({M,A,B,D,E,H},null
+C({M,A,B,D,E,H},null
+C({M,A,B,D,E,H},null
+
+S = {M,A,B,D,E,L}
+C({M,A,B,D,E,L},null
+C({M,A,B,D,E,L},null
+C({M,A,B,D,E,L},null
+C({M,A,B,D,E,L},null
+C({M,A,B,D,E,L},null
+C({M,A,B,D,E,L},null
+
+S = {M,A,B,D,E,S}
+C({M,A,B,D,E,S},null
+C({M,A,B,D,E,S},null
+C({M,A,B,D,E,S},null
+C({M,A,B,D,E,S},null
+C({M,A,B,D,E,S},null
+C({M,A,B,D,E,S},null
+
+S = {M,A,B,D,H,L}
+C({M,A,B,D,H,L},null
+C({M,A,B,D,H,L},null
+C({M,A,B,D,H,L},null
+C({M,A,B,D,H,L},null
+C({M,A,B,D,H,L},null
+C({M,A,B,D,H,L},null
+
+S = {M,A,B,D,H,S}
+C({M,A,B,D,H,S},null
+C({M,A,B,D,H,S},null
+C({M,A,B,D,H,S},null
+C({M,A,B,D,H,S},null
+C({M,A,B,D,H,S},null
+C({M,A,B,D,H,S},null
+
+S = {M,A,B,D,L,S}
+C({M,A,B,D,L,S},null
+C({M,A,B,D,L,S},null
+C({M,A,B,D,L,S},null
+C({M,A,B,D,L,S},null
+C({M,A,B,D,L,S},null
+C({M,A,B,D,L,S},null
+
+S = {M,A,B,E,H,L}
+C({M,A,B,E,H,L},null
+C({M,A,B,E,H,L},null
+C({M,A,B,E,H,L},null
+C({M,A,B,E,H,L},null
+C({M,A,B,E,H,L},null
+C({M,A,B,E,H,L},null
+
+S = {M,A,B,E,H,S}
+C({M,A,B,E,H,S},null
+C({M,A,B,E,H,S},null
+C({M,A,B,E,H,S},null
+C({M,A,B,E,H,S},null
+C({M,A,B,E,H,S},null
+C({M,A,B,E,H,S},null
+
+S = {M,A,B,E,L,S}
+C({M,A,B,E,L,S},null
+C({M,A,B,E,L,S},null
+C({M,A,B,E,L,S},null
+C({M,A,B,E,L,S},null
+C({M,A,B,E,L,S},null
+C({M,A,B,E,L,S},null
+
+S = {M,A,B,H,L,S}
+C({M,A,B,H,L,S},null
+C({M,A,B,H,L,S},null
+C({M,A,B,H,L,S},null
+C({M,A,B,H,L,S},null
+C({M,A,B,H,L,S},null
+C({M,A,B,H,L,S},null
+
+S = {M,A,D,E,H,L}
+C({M,A,D,E,H,L},null
+C({M,A,D,E,H,L},null
+C({M,A,D,E,H,L},null
+C({M,A,D,E,H,L},null
+C({M,A,D,E,H,L},null
+C({M,A,D,E,H,L},null
+
+S = {M,A,D,E,H,S}
+C({M,A,D,E,H,S},null
+C({M,A,D,E,H,S},null
+C({M,A,D,E,H,S},null
+C({M,A,D,E,H,S},null
+C({M,A,D,E,H,S},null
+C({M,A,D,E,H,S},null
+
+S = {M,A,D,E,L,S}
+C({M,A,D,E,L,S},null
+C({M,A,D,E,L,S},null
+C({M,A,D,E,L,S},null
+C({M,A,D,E,L,S},null
+C({M,A,D,E,L,S},null
+C({M,A,D,E,L,S},null
+
+S = {M,A,D,H,L,S}
+C({M,A,D,H,L,S},null
+C({M,A,D,H,L,S},null
+C({M,A,D,H,L,S},null
+C({M,A,D,H,L,S},null
+C({M,A,D,H,L,S},null
+C({M,A,D,H,L,S},null
+
+S = {M,A,E,H,L,S}
+C({M,A,E,H,L,S},null
+C({M,A,E,H,L,S},null
+C({M,A,E,H,L,S},null
+C({M,A,E,H,L,S},null
+C({M,A,E,H,L,S},null
+C({M,A,E,H,L,S},null
+
+S = {M,B,D,E,H,L}
+C({M,B,D,E,H,L},null
+C({M,B,D,E,H,L},null
+C({M,B,D,E,H,L},null
+C({M,B,D,E,H,L},null
+C({M,B,D,E,H,L},null
+C({M,B,D,E,H,L},null
+
+S = {M,B,D,E,H,S}
+C({M,B,D,E,H,S},null
+C({M,B,D,E,H,S},null
+C({M,B,D,E,H,S},null
+C({M,B,D,E,H,S},null
+C({M,B,D,E,H,S},null
+C({M,B,D,E,H,S},null
+
+S = {M,B,D,E,L,S}
+C({M,B,D,E,L,S},null
+C({M,B,D,E,L,S},null
+C({M,B,D,E,L,S},null
+C({M,B,D,E,L,S},null
+C({M,B,D,E,L,S},null
+C({M,B,D,E,L,S},null
+
+S = {M,B,D,H,L,S}
+C({M,B,D,H,L,S},null
+C({M,B,D,H,L,S},null
+C({M,B,D,H,L,S},null
+C({M,B,D,H,L,S},null
+C({M,B,D,H,L,S},null
+C({M,B,D,H,L,S},null
+
+S = {M,B,E,H,L,S}
+C({M,B,E,H,L,S},null
+C({M,B,E,H,L,S},null
+C({M,B,E,H,L,S},null
+C({M,B,E,H,L,S},null
+C({M,B,E,H,L,S},null
+C({M,B,E,H,L,S},null
+
+S = {M,D,E,H,L,S}
+C({M,D,E,H,L,S},null
+C({M,D,E,H,L,S},null
+C({M,D,E,H,L,S},null
+C({M,D,E,H,L,S},null
+C({M,D,E,H,L,S},null
+C({M,D,E,H,L,S},null
+
+s = 7
+
+S = {M,A,B,D,E,H,L}
+C({M,A,B,D,E,H,L},null
+C({M,A,B,D,E,H,L},null
+C({M,A,B,D,E,H,L},null
+C({M,A,B,D,E,H,L},null
+C({M,A,B,D,E,H,L},null
+C({M,A,B,D,E,H,L},null
+C({M,A,B,D,E,H,L},null
+
+S = {M,A,B,D,E,H,S}
+C({M,A,B,D,E,H,S},null
+C({M,A,B,D,E,H,S},null
+C({M,A,B,D,E,H,S},null
+C({M,A,B,D,E,H,S},null
+C({M,A,B,D,E,H,S},null
+C({M,A,B,D,E,H,S},null
+C({M,A,B,D,E,H,S},null
+
+S = {M,A,B,D,E,L,S}
+C({M,A,B,D,E,L,S},null
+C({M,A,B,D,E,L,S},null
+C({M,A,B,D,E,L,S},null
+C({M,A,B,D,E,L,S},null
+C({M,A,B,D,E,L,S},null
+C({M,A,B,D,E,L,S},null
+C({M,A,B,D,E,L,S},null
+
+S = {M,A,B,D,H,L,S}
+C({M,A,B,D,H,L,S},null
+C({M,A,B,D,H,L,S},null
+C({M,A,B,D,H,L,S},null
+C({M,A,B,D,H,L,S},null
+C({M,A,B,D,H,L,S},null
+C({M,A,B,D,H,L,S},null
+C({M,A,B,D,H,L,S},null
+
+S = {M,A,B,E,H,L,S}
+C({M,A,B,E,H,L,S},null
+C({M,A,B,E,H,L,S},null
+C({M,A,B,E,H,L,S},null
+C({M,A,B,E,H,L,S},null
+C({M,A,B,E,H,L,S},null
+C({M,A,B,E,H,L,S},null
+C({M,A,B,E,H,L,S},null
+
+S = {M,A,D,E,H,L,S}
+C({M,A,D,E,H,L,S},null
+C({M,A,D,E,H,L,S},null
+C({M,A,D,E,H,L,S},null
+C({M,A,D,E,H,L,S},null
+C({M,A,D,E,H,L,S},null
+C({M,A,D,E,H,L,S},null
+C({M,A,D,E,H,L,S},null
+
+S = {M,B,D,E,H,L,S}
+C({M,B,D,E,H,L,S},null
+C({M,B,D,E,H,L,S},null
+C({M,B,D,E,H,L,S},null
+C({M,B,D,E,H,L,S},null
+C({M,B,D,E,H,L,S},null
+C({M,B,D,E,H,L,S},null
+C({M,B,D,E,H,L,S},null
+
+s = 8
+
+S = {M,A,B,D,E,H,L,S}
+C({M,A,B,D,E,H,L,S}) = 2147483647
+Shortest route:  null

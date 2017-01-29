@@ -1,0 +1,39 @@
+First city is M.
+-------
+Next city is B.
+Only possible partial path is:
+MB & M, partial distance = 1417
+-------
+Next city is D.  Possible partial paths are:
+MBD & M, partial distance = 3421
+MB & MD, partial distance = 2341
+Optimal partial path is:  MB & MD
+-------
+Next city is S.  Possible partial paths are:
+MBS & MD, partial distance = 5476
+MB & MDS, partial distance = 3612
+Optimal partial path is:  MB & MDS
+-------
+Next city is L.  Possible partial paths are:
+MBL & MDS, partial distance = 6658
+MB & MDSL, partial distance = 3997
+Optimal partial path is:  MB & MDSL
+-------
+Next city is A.  Possible partial paths are:
+MBA & MDSL, partial distance = 5097
+MB & MDSLA, partial distance = 6234
+Optimal partial path is:  MBA & MDSL
+-------
+Next city is E.  Possible partial paths are:
+MBAE & MDSL, partial distance = 6534
+MBA & MDSLE, partial distance = 5898
+Optimal partial path is:  MBA & MDSLE
+-------
+Next city is H.  Possible partial paths are:
+MBAH & MDSLE, partial distance = 6698
+MBA & MDSLEH, partial distance = 6656
+Optimal partial path is:  MBA & MDSLEH
+-------
+All cities are visited, remaining edge is from A to H.
+Final path is MBAHELSDM.
+Total distance is 6656
